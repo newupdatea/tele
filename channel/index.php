@@ -1,9 +1,9 @@
 <?php
 
 $links = array(
-    'link1' => 'https://example.com/page1',
-    'link2' => 'https://example.com/page2',
-    'link3' => 'https://example.com/page3'
+    'link1' => 'https://t.me/omar4app',
+    'link2' => 'https://t.me/omar_tic',
+    'link3' => 'https://t.me/whatsap_omar'
 );
 
 
